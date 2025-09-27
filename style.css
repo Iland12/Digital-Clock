@@ -12,7 +12,7 @@ body {
   height: 100vh;
   position: absolute;
   top: 20%;
-  left: 30%;
+  left: 50%;
 }
 .container {
   min-width: 100%;
@@ -603,7 +603,7 @@ h1 {
   .cuboidA,
   .cuboidB,
   .cuboidC {
-    left: -2%;
+    left: -30%;
   }
   .face {
     width: 2rem;
@@ -616,7 +616,7 @@ h1 {
   .cuboid1,
   .cuboid2,
   .cuboid3 {
-    right: -75%;
+    right: -110%;
   }
   .faces {
     width: 2rem;
